@@ -1,0 +1,31 @@
+{
+  "name": "application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "author": "murali",
+  "license": "ISC",
+  "dependencies": {
+    "@fast-csv/format": "^4.3.1",
+    "@fast-csv/parse": "^4.3.1",
+    "bcrypt": "^5.0.0",
+    "ejs": "^3.1.3",
+    "excel4node": "^1.7.2",
+    "express": "^4.17.1",
+    "express-flash": "0.0.2",
+    "express-session": "^1.17.1",
+    "fast-csv": "^4.3.1",
+    "fs": "0.0.1-security",
+    "msexcel-builder": "0.0.2",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0",
+    "xlsx": "^0.16.3"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.4"
+  }
+}
