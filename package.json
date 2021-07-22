@@ -22,7 +22,7 @@
     "msexcel-builder": "0.0.2",
     "passport": "^0.4.1",
     "passport-local": "^1.0.0",
-    "xlsx": "^0.16.3"
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {
     "dotenv": "^8.2.0",
